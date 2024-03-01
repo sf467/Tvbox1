@@ -268,4 +268,53 @@
 {"name":"🏝fenwe","server":"http://www.fenwe.tk:5244","startPage":"","search":false,"headers":null,"params":null,"isActive":true,"id":42},
 {"name":"🎢轻弹浅唱","server":"https://g.xiang.lol","startPage":"","search":false,"headers":null,"params":null,"isActive":true,"id":43}
 ]}
+  "setting": [
+    {
+      "version": 0, // 当前版本
+      "theme": "auto",
+      "externalPlayer": "",
+      "defaultHot": "kylive",
+      "defaultSearchRecommend": "site",
+      "defaultSearchType": "site",
+      "defaultCheckModel": true,
+      "defaultChangeModel": false,
+      "defaultIptvEpg": "https://epg.112114.eu.org/",
+      "defaultIptvLogo": "https://epg.112114.eu.org/logo/",
+      "iptvSkipIpv6": true,
+      "iptvThumbnail": true,
+      "defaultSite": 3,
+      "defaultIptv": 5,
+      "defaultAnalyze": 2,
+      "analyzeFlag": [
+        "youku",
+        "qq",
+        "iqiyi",
+        "qiyi",
+        "letv",
+        "sohu",
+        "tudou",
+        "pptv",
+        "mgtv"
+      ],
+      "broadcasterType": "iina",
+      "softSolution": false,
+      "skipStartEnd": false,
+      "agreementMask": true,
+      "recordShortcut": "Shift+Command+Z",
+      "selfBoot": false,
+      "hardwareAcceleration": true,
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
+      "iptvStatus": true,
+      "webdevUrl": "https://dav.jianguoyun.com/dav/",
+      "webdevUsername": "",
+      "webdevPassword": "",
+      "windowPosition": {
+        "status": false,
+        "position": {
+            "width": 1000,
+            "height": 640
+        }
+      }
+    }
+  ],
 }
